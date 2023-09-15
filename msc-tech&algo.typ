@@ -70,5 +70,6 @@
     outset: 5pt,
     radius: 4pt
 )[
-    
+    #link("https://github.com/MSC-CQU/MSC-23-New")[github上pull request]
+    或者发到邮箱sgj_unicoder@qq.com
 ]
